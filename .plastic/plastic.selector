@@ -1,0 +1,4 @@
+repository "Cute Hard Jumping Game@Mjusi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
